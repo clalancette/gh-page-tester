@@ -81,3 +81,18 @@ iso.close()
 ```
 
 As in earlier examples, close the PyCdlib object when we are done with it.
+
+---
+
+<div style="width: 100%; display: table;">
+  <div style="display: table-row;">
+    <div style="width: 33%; display: table-cell; text-align: left;">
+      <a href="example-managing-hard-links.html">Example: Managing hard-links on an ISO</a>
+    </div>
+    <div style="width: 33%; display: table-cell; text-align: center;">
+      <a href="https://clalancette.github.io/gh-page-tester/">Top</a>
+    </div>
+    <div style="width: 33%; display: table-cell; text-align: right;">
+      <a href="example-creating-hybrid-bootable-iso.html">Example: Creating a "hybrid" bootable ISO</a>
+    </div>
+</div>

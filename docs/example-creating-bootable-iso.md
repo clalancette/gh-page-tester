@@ -65,3 +65,18 @@ iso.close()
 ```
 
 Write the ISO out to a file, and close out the PyCdlib object.
+
+---
+
+<div style="width: 100%; display: table;">
+  <div style="display: table-row;">
+    <div style="width: 33%; display: table-cell; text-align: left;">
+      <a href="example-extracting-data-from-iso.html">Example: Extracting data from an existing ISO</a>
+    </div>
+    <div style="width: 33%; display: table-cell; text-align: center;">
+      <a href="https://clalancette.github.io/gh-page-tester/">Top</a>
+    </div>
+    <div style="width: 33%; display: table-cell; text-align: right;">
+      <a href="example-creating-rock-ridge-iso.html">Example: Creating an ISO with Rock Ridge</a>
+    </div>
+</div>
