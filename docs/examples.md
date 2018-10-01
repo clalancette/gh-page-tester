@@ -25,3 +25,18 @@ We'll start out each example with the entire source code needed to run the examp
 * [Creating a "hybrid" bootable ISO](example-creating-hybrid-bootable-iso.md)
 * [Walking the ISO filesystem](example-walking-iso-filesystem.md)
 * [Reading a large file in chunks](example-reading-file-in-chunks.md)
+
+---
+
+<div style="width: 100%; display: table;">
+  <div style="display: table-row;">
+    <div style="width: 33%; display: table-cell; text-align: center;">
+      <a href="python-compatibility.html"><-- Python compatibility</a>
+    </div>
+    <div style="width: 33%; display: table-cell; text-align: center;">
+      <a href="https://clalancette.github.io/gh-page-tester/">Top</a>
+    </div>
+    <div style="width: 33%; display: table-cell; text-align: right;">
+      <a href="example-creating-new-basic-iso.html">Creating a new, basic ISO</a>
+    </div>
+</div>
