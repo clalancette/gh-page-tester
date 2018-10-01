@@ -39,11 +39,16 @@ The "Universal Disk Format" was proposed in the late 1990's to supplant the agin
 
 The UDF filesystem format consists of two or three separate specifications, depending on how you count them.  Ecma-167 is the base specification that defines the filesystem structure, types, etc.  The UDF specification starts with Ecma-167 and adds specific rules and restrictions that, when followed, make a filesystem layout UDF compliant.  Further, Ecma TR-071 starts with the UDF specification and adds even more rules and restrictions that, when followed, make a filesystem layout DVD Read-only media compliant.
 
-___
+---
 
 <div style="width: 100%; display: table;">
   <div style="display: table-row;">
-    <div style="width: 33%; display: table-cell; text-align: center;"></div>
-    <div style="width: 33%; display: table-cell; text-align: center;"><a href="https://clalancette.github.io/gh-page-tester/">Top</a></div>
-    <div style="width: 33%; display: table-cell; text-align: right;"><a href="python-compatibility.html">Python Compatibility --></a></div>
+    <div style="width: 33%; display: table-cell; text-align: center;">
+    </div>
+    <div style="width: 33%; display: table-cell; text-align: center;">
+      <a href="https://clalancette.github.io/gh-page-tester/">Top</a>
+    </div>
+    <div style="width: 33%; display: table-cell; text-align: right;">
+      <a href="python-compatibility.html">Python Compatibility --></a>
+    </div>
 </div>
