@@ -76,7 +76,7 @@ Close out the PyCdlib object, releasing all resources and invalidating the conte
 
 <div style="width: 100%; display: table;">
   <div style="display: table-row;">
-    <div style="width: 33%; display: table-cell; text-align: center;">
+    <div style="width: 33%; display: table-cell; text-align: left;">
       <a href="examples.html"><-- Examples</a>
     </div>
     <div style="width: 33%; display: table-cell; text-align: center;">

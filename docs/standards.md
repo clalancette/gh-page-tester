@@ -43,7 +43,7 @@ The UDF filesystem format consists of two or three separate specifications, depe
 
 <div style="width: 100%; display: table;">
   <div style="display: table-row;">
-    <div style="width: 33%; display: table-cell; text-align: center;">
+    <div style="width: 33%; display: table-cell; text-align: left;">
     </div>
     <div style="width: 33%; display: table-cell; text-align: center;">
       <a href="https://clalancette.github.io/gh-page-tester/">Top</a>
