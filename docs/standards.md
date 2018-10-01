@@ -38,3 +38,5 @@ El Torito is the name of the standard used to make an ISO bootable.  Without goi
 The "Universal Disk Format" was proposed in the late 1990's to supplant the aging ISO9660 as the filesystem of choice on optical media.  It was adopted as the standard DVD filesystem format, and thus started gaining widespread popularity and use.  Due to backwards-compatibility concerns, however, it mostly didn't replace ISO9660 as much as augment it as another way to encode the data on a volume.  This is often known as the "bridge" format.
 
 The UDF filesystem format consists of two or three separate specifications, depending on how you count them.  Ecma-167 is the base specification that defines the filesystem structure, types, etc.  The UDF specification starts with Ecma-167 and adds specific rules and restrictions that, when followed, make a filesystem layout UDF compliant.  Further, Ecma TR-071 starts with the UDF specification and adds even more rules and restrictions that, when followed, make a filesystem layout DVD Read-only media compliant.
+
+<div style="text-align: right">Next</div>
