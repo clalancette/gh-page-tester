@@ -41,9 +41,8 @@ The UDF filesystem format consists of two or three separate specifications, depe
 
 ___
 
-<table border="0">
-<tr>
-<td><a href="https://clalancette.github.io/gh-page-tester/">Top</a></td>
-<td><a href="python-compatibility.html">Python Compatibility --></a></td>
-</tr>
-</table>
+<div style="width: 100%; display: table;">
+  <div style="display: table-row;">
+    <div style="display: table-cell;"><a href="https://clalancette.github.io/gh-page-tester/">Top</a></div>
+    <div style="display: table-cell;"><a href="python-compatibility.html">Python Compatibility --></a></div>
+</div>
