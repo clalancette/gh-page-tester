@@ -41,4 +41,4 @@ The UDF filesystem format consists of two or three separate specifications, depe
 
 ---
 
-<div style="text-align: right">[Python Compatibility -->](python-compatibility.md)</div>
+<div style="text-align: right"><a href="python-compatibility.md">Python Compatibility --></a></div>
