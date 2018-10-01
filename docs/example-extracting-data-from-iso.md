@@ -77,12 +77,12 @@ As is the case in other examples, we close out the PyCdlib object, and print out
 <div style="width: 100%; display: table;">
   <div style="display: table-row;">
     <div style="width: 33%; display: table-cell; text-align: left;">
-      <a href="example-opening-existing-iso.html">Example: Opening an existing ISO</a>
+      <a href="example-opening-existing-iso.html"><-- Example: Opening an existing ISO</a>
     </div>
     <div style="width: 33%; display: table-cell; text-align: center;">
       <a href="https://clalancette.github.io/gh-page-tester/">Top</a>
     </div>
     <div style="width: 33%; display: table-cell; text-align: right;">
-      <a href="example-creating-bootable-iso.html">Example: Creating a bootable ISO (El Torito)</a>
+      <a href="example-creating-bootable-iso.html">Example: Creating a bootable ISO (El Torito) --></a>
     </div>
 </div>

@@ -64,12 +64,12 @@ Write the new ISO out to a file, then close out the ISO.
 <div style="width: 100%; display: table;">
   <div style="display: table-row;">
     <div style="width: 33%; display: table-cell; text-align: left;">
-      <a href="example-creating-rock-ridge-iso.html">Example: Creating an ISO with Rock Ridge</a>
+      <a href="example-creating-rock-ridge-iso.html"><-- Example: Creating an ISO with Rock Ridge</a>
     </div>
     <div style="width: 33%; display: table-cell; text-align: center;">
       <a href="https://clalancette.github.io/gh-page-tester/">Top</a>
     </div>
     <div style="width: 33%; display: table-cell; text-align: right;">
-      <a href="example-creating-udf-iso.html">Example: Creating an ISO with UDF</a>
+      <a href="example-creating-udf-iso.html">Example: Creating an ISO with UDF --></a>
     </div>
 </div>

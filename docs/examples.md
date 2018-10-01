@@ -37,6 +37,6 @@ We'll start out each example with the entire source code needed to run the examp
       <a href="https://clalancette.github.io/gh-page-tester/">Top</a>
     </div>
     <div style="width: 33%; display: table-cell; text-align: right;">
-      <a href="example-creating-new-basic-iso.html">Example: Creating a new, basic ISO</a>
+      <a href="example-creating-new-basic-iso.html">Example: Creating a new, basic ISO --></a>
     </div>
 </div>

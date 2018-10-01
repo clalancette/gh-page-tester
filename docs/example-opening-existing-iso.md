@@ -55,6 +55,6 @@ Close out the PyCdlib object, releasing all resources and invalidating the conte
       <a href="https://clalancette.github.io/gh-page-tester/">Top</a>
     </div>
     <div style="width: 33%; display: table-cell; text-align: right;">
-      <a href="example-extracting-data-from-iso.html">Example: Extracting data from an existing ISO</a>
+      <a href="example-extracting-data-from-iso.html">Example: Extracting data from an existing ISO --></a>
     </div>
 </div>

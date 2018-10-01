@@ -83,6 +83,6 @@ Close out the PyCdlib object, releasing all resources and invalidating the conte
       <a href="https://clalancette.github.io/gh-page-tester/">Top</a>
     </div>
     <div style="width: 33%; display: table-cell; text-align: right;">
-      <a href="example-opening-existing-iso.html">Example: Opening an existing ISO</a>
+      <a href="example-opening-existing-iso.html">Example: Opening an existing ISO --></a>
     </div>
 </div>

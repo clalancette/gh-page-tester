@@ -6,7 +6,7 @@ The PyCdlib library can fail for a number of reasons.  The most common reason fo
 <div style="width: 100%; display: table;">
   <div style="display: table-row;">
     <div style="width: 33%; display: table-cell; text-align: left;">
-      <a href="exceptions.html">Exceptions</a>
+      <a href="exceptions.html"><-- Exceptions</a>
     </div>
     <div style="width: 33%; display: table-cell; text-align: center;">
       <a href="https://clalancette.github.io/gh-page-tester/">Top</a>

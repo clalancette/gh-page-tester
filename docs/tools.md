@@ -16,12 +16,12 @@ The `pycdlib-extract-files` tool is a convenient way to extract particular files
 <div style="width: 100%; display: table;">
   <div style="display: table-row;">
     <div style="width: 33%; display: table-cell; text-align: left;">
-      <a href="design.html">Design</a>
+      <a href="design.html"><-- Design</a>
     </div>
     <div style="width: 33%; display: table-cell; text-align: center;">
       <a href="https://clalancette.github.io/gh-page-tester/">Top</a>
     </div>
     <div style="width: 33%; display: table-cell; text-align: right;">
-      <a href="testing.html">Testing</a>
+      <a href="testing.html">Testing --></a>
     </div>
 </div>

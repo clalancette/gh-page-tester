@@ -11,12 +11,12 @@ PyCdlib currently has 88% code coverage from the tests, and anytime a new bug is
 <div style="width: 100%; display: table;">
   <div style="display: table-row;">
     <div style="width: 33%; display: table-cell; text-align: left;">
-      <a href="tools.html">Tools</a>
+      <a href="tools.html"><-- Tools</a>
     </div>
     <div style="width: 33%; display: table-cell; text-align: center;">
       <a href="https://clalancette.github.io/gh-page-tester/">Top</a>
     </div>
     <div style="width: 33%; display: table-cell; text-align: right;">
-      <a href="exceptions.html">Exceptions</a>
+      <a href="exceptions.html">Exceptions --></a>
     </div>
 </div>

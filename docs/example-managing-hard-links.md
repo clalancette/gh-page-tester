@@ -94,12 +94,12 @@ Since we are done with the ISO object, close it out.
 <div style="width: 100%; display: table;">
   <div style="display: table-row;">
     <div style="width: 33%; display: table-cell; text-align: left;">
-      <a href="example-modifying-file-in-place.html">Example: Modifying a file in place</a>
+      <a href="example-modifying-file-in-place.html"><-- Example: Modifying a file in place</a>
     </div>
     <div style="width: 33%; display: table-cell; text-align: center;">
       <a href="https://clalancette.github.io/gh-page-tester/">Top</a>
     </div>
     <div style="width: 33%; display: table-cell; text-align: right;">
-      <a href="example-forcing-consistency.html">Example: Forcing consistency</a>
+      <a href="example-forcing-consistency.html">Example: Forcing consistency --></a>
     </div>
 </div>
