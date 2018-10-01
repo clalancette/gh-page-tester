@@ -43,6 +43,6 @@ ___
 
 <div style="width: 100%; display: table;">
   <div style="display: table-row;">
-    <div style="display: table-cell;"><a href="https://clalancette.github.io/gh-page-tester/">Top</a></div>
-    <div style="display: table-cell;"><a href="python-compatibility.html">Python Compatibility --></a></div>
+    <div style="display: table-cell; text-align: center;"><a href="https://clalancette.github.io/gh-page-tester/">Top</a></div>
+    <div style="display: table-cell; text-align: right;"><a href="python-compatibility.html">Python Compatibility --></a></div>
 </div>
