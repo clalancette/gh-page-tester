@@ -71,3 +71,18 @@ iso.close()
 ```
 
 Close out the PyCdlib object, releasing all resources and invalidating the contents.  After this call, the object can be reused to create a new ISO or open up an existing ISO.
+
+---
+
+<div style="width: 100%; display: table;">
+  <div style="display: table-row;">
+    <div style="width: 33%; display: table-cell; text-align: center;">
+      <a href="examples.html"><-- Examples</a>
+    </div>
+    <div style="width: 33%; display: table-cell; text-align: center;">
+      <a href="https://clalancette.github.io/gh-page-tester/">Top</a>
+    </div>
+    <div style="width: 33%; display: table-cell; text-align: right;">
+      <a href="example-opening-existing-iso.html">Opening an existing ISO</a>
+    </div>
+</div>
