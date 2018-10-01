@@ -11,6 +11,6 @@
       <a href="https://clalancette.github.io/gh-page-tester/">Top</a>
     </div>
     <div style="width: 33%; display: table-cell; text-align: right;">
-      <a href="design.html">Design</a>
+      <a href="tools.html">Tools</a>
     </div>
 </div>
