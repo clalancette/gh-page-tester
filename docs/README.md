@@ -1,2 +1,2 @@
 # Blah Blah
-[link](foo.html)
+[link](foo.md)
